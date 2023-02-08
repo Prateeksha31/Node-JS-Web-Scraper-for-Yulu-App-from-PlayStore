@@ -1,0 +1,21 @@
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(39, 37, 21, 0.616), rgb(0, 0, 0)), url('Yulu.jpg' )  ;
+}
+
+*{
+    margin : 0%;
+    padding : 0%;
+}
+
+#feed{
+    width: 70%;
+    align-self: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+*{
+    color: rgb(227, 230, 232);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
